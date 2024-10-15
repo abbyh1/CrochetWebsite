@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    font-family: "Courier", monospace;
+    font-size: 40px;
+    color: rgb(127, 109, 120);
+    
+    
+    border-radius: 15px;
+}
+
+.nav{
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0;
+    opacity:0.7;
+   
+    top: 0; 
+    width: 100%;
+    border: solid;
+    border-radius: 15px;
+    border-color: white;
+    padding-bottom: 20px;
+    background-color: rgb(245, 198, 227);
+    
+
+
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+      
+}
+
+a:link{
+    color: rgb(127, 109, 120);
+background-color: transparent;
+text-decoration: none;}
+
+h2{
+text-align: center;
+margin-top: 200px;
+margin-left: 30px;
+}
+.info{
+    border-radius: 17px;
+    background-color: pink;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    
+    padding-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(245, 198, 227);
+    opacity:0.7;
+    font-size: 25px;
+    border: solid;
+    border-color: white;
+    
+}
+
+.pattern{
+    display: flex;
+    justify-content: space-around;
+ 
+    padding-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+ 
+    margin-top: 300px;
+}
+.bunny{
+    border: solid;
+    border-color: white;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: rgb(245, 198, 227);
+}
+.frogPattern{
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 200px;
+    border-radius: 15px;
+ 
+}
+img{
+    border-radius: 15px;
+}
